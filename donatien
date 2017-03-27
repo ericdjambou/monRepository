@@ -13,3 +13,7 @@ printf ("%d + %d = %d\n", nombre1, nombre2, resultat);
 return 0;
 }
 
+resultat:
+entrez le nombre 1: 47
+entrez le nombre 2: 53
+47+53=100
